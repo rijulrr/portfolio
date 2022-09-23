@@ -15,7 +15,7 @@ import Cursor from "../components/Cursor";
 import data from "../data/portfolio.json";
 
 export default function Home() {
-  // Ref
+  // Ref`
   const workRef = useRef();
   const aboutRef = useRef();
   const textOne = useRef();
